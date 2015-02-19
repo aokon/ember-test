@@ -1,5 +1,5 @@
 // Fetched from channel: release, with url http://builds.emberjs.com/release/ember.debug.js
-// Fetched on: 2015-02-18T15:35:23Z
+// Fetched on: 2015-02-18T16:25:20Z
 /*!
  * @overview  Ember - JavaScript Application Framework
  * @copyright Copyright 2011-2014 Tilde Inc. and contributors

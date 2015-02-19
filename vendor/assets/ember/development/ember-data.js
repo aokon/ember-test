@@ -1,5 +1,5 @@
 // Fetched from channel: release, with url http://builds.emberjs.com/beta/ember-data.js
-// Fetched on: 2015-02-18T15:35:33Z
+// Fetched on: 2015-02-18T16:25:47Z
 (function() {
     "use strict";
     /**

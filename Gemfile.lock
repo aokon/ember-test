@@ -62,7 +62,7 @@ GEM
     debugger-linecache (1.2.0)
     ember-data-source (1.0.0.beta.15)
       ember-source (~> 1.8)
-    ember-rails (0.16.3)
+    ember-rails (0.16.4)
       active_model_serializers
       barber (>= 0.6.0)
       ember-data-source (>= 1.0.0.beta.5)
@@ -169,7 +169,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
-  ember-rails
+  ember-rails (= 0.16.4)
   jbuilder (~> 2.0)
   jquery-rails
   rails (= 4.2.0)

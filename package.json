@@ -1,0 +1,10 @@
+{
+  "name": "Singapore",
+  "devDependencies" : {
+      "karma": "0.12.1",
+      "karma-phantomjs-launcher": "0.1.2",
+      "karma-ember-preprocessor": "*",
+      "karma-coffee-preprocessor": "*",
+      "karma-qunit": "0.1.1"
+    }
+}
